@@ -1,14 +1,14 @@
 <div align="center">
   <img src="https://telegra.ph/file/445520952055fb8e8e7f0.jpg" width="200" height="200">
-  <h1>AlphaUserBot</h1>
+  <h1>EliteUserBot</h1>
 </div>
 <p align="center">
-    AlphaUserBot Telegramı daha rahat işlətmək üçün bir botdur.
+    EliteUserBot Telegramı daha rahat işlətmək üçün bir botdur.
     Bununla yanaşı bu bot vaistəsi ilə əylənədə bilərsiz.
     <br>
-        <a href="https://t.me/AlphaSupportaz">Qurulum</a> |
-        <a href="https://t.me/AlphaUserBot">Güncəlləmə</a> |
-        <a href="https://t.me/AlphaSupportaz">Support</a>
+        <a href="https://t.me/elitequrulum">Qurulum</a> |
+        <a href="https://t.me/EliteUserBot">Güncəlləmə</a> |
+        <a href="https://t.me/Elitesupp">Support</a>
     <br>
 </p>
 
