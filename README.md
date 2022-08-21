@@ -27,7 +27,7 @@ iOS üçün sayta girin və yaşıl butona basın: <a href="https://replit.com/@
 
 STRING: Termux yükləyin və yapışdırın: ```bash <(curl -L https://git.io/J1X4p)```
 
-Botu necə quracağınızı bilmirsizsə Support qrupuna yazın: [Alpha Support](https://t.me/alphasupportaz)
+Botu necə quracağınızı bilmirsizsə Support qrupuna yazın: [Elite Support](https://t.me/elitesupp)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Goqerti/Alpha-UserBot)
 ### Çətin Yol
@@ -40,7 +40,7 @@ python3 main.py
 ```
 
 ## Məlumatlandırma
-Botla hər hansı probleminiz, istək/irad olarsa [dəstək qrupuna](https://t.me/AlphaSupportaz) yaza bilərsiz.
+Botla hər hansı probleminiz, istək/irad olarsa [dəstək qrupuna](https://t.me/elitesupp) yaza bilərsiz.
 
 ```
     User Bota göre Telegram hesabınız bağlana biler.
