@@ -1,4 +1,4 @@
-# Alpha STRİNG #
+# Elite STRİNG #
 
 
 import asyncio
