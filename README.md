@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://telegra.ph/EliteUserBot-08-21" width="200" height="200">
+  <img src="https://imgyukle.com/f/2022/08/21/nyLD8f.jpg" width="200" height="200">
   <h1>EliteUserBot</h1>
 </div>
 <p align="center">
