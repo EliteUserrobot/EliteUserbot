@@ -4,7 +4,7 @@
 # you may not use this file except in compliance with the License.
 #
 
-# ALPHA USER BOT #
+
 
 import asyncio
 import math
@@ -264,7 +264,7 @@ async def upload_file(http, file_path, file_name, mime_type, event, parent_id):
     media_body = MediaFileUpload(file_path, mimetype=mime_type, resumable=True)
     body = {
         "title": file_name,
-        "description": "@AlphaUserBot işlədilərək yükləndi.",
+        "description": "@EliteUserBot işlədilərək yükləndi.",
         "mimeType": mime_type,
     }
     if parent_id:
