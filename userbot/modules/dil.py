@@ -4,7 +4,6 @@
 # you may not use this file except in compliance with the License.
 #
 
-# ALPHA USER BOT #
 
 from userbot.cmdhelp import CmdHelp
 from userbot import PLUGIN_CHANNEL_ID, CMD_HELP
@@ -74,7 +73,7 @@ async def dil(event):
             f"**Dil Kodu: **`{LANGUAGE_JSON['LANGCODE']}`\n"
             f"**Çevirən: **`{LANGUAGE_JSON ['AUTHOR']}`\n"
 
-            f"\n\n@AlphaUserBot ⚡️"
+            f"\n\n@EliteUserBot ⚡️"
         )
 
 CmdHelp('dil').add_command(
