@@ -9,7 +9,7 @@ from userbot.events import register
 async def telegraphs(grop):
     if grop.fwd_from:
         return
-    """ AlphaUserBot - Sirvhan """
+    """ EliteUserBot - Reshul """
     if not grop.text[0].isalpha() and grop.text[0] not in ("/", "#", "@", "!"):
 
         if grop.fwd_from:
