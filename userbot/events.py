@@ -4,7 +4,7 @@
 # you may not use this file except in compliance with the License.
 #
 
-# /A L P H A / U S E R / B O T/
+
 
 """ Hadiseleri idare etmek üçün User Bot modulu.
  UserBot'un esas komponentlerinden biri. """
@@ -80,7 +80,7 @@ def register(**args):
                     date = strftime("%Y-%m-%d %H:%M:%S", gmtime())
 
                     text = "**USER BOT XETA HESABATI**\n"
-                    link = "[AlphaUserBot](https://t.me/AlphaSupportaz)"
+                    link = "[EliteUserBot](https://t.me/Elitesupp)"
                     text += "İstəsəniz bunu şikayət edə bilərsiniz"
                     text += f" - sadəcə bu mesajı buraya göndərin {link}.\n"
                     text += "Xəta və Tarixdən başqa heçnə qeyd edilmir\n"
